@@ -1,5 +1,7 @@
 # FordFulkersonAlgorithm
 
+This project was completed on 07.01.2023
+
 This project implements the Ford-Fulkerson algorithm to find the max flow of a graph. It also finds the min cut.
 
 ## How To Run
