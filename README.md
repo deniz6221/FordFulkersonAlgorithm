@@ -2,7 +2,7 @@
 
 This project implements the Ford-Fulkerson algorithm to find the max flow of a graph. It also finds the min cut.
 
-# How To Run
+## How To Run
 
 javac -target 17 *.java -d ./ \
 java project5 \<inputfile\> \<outputfile\>
